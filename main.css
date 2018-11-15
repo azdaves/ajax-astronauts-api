@@ -1,0 +1,21 @@
+body {
+  background: url("space.jpg");
+}
+
+h1 {
+  color: antiquewhite;
+}
+.astros {
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  align-items: left;
+  background: #1c6977;
+  padding: 10px;
+  margin-bottom: 10px;
+  color: antiquewhite;
+}
+
+.astros ul {
+  list-style: none;
+}
